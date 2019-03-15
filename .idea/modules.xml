@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/delegatePattern/delegatePattern.iml" filepath="$PROJECT_DIR$/delegatePattern/delegatePattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo-web/demo-web.iml" filepath="$PROJECT_DIR$/demo-web/demo-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/gp-work.iml" filepath="$PROJECT_DIR$/.idea/gp-work.iml" />
